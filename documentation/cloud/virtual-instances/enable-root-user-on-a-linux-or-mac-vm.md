@@ -7,7 +7,7 @@ toc:
 pageTitle: Enable root user on a Linux or Mac VM | Gcore
 pageDescription: Learn how to enable root user on a Linux or Mac VM using "sudo" or "sudo su" commands. Understand the differences and alternative methods.
 ---
-# Enable root user on a Linux or Mac VM
+# Enable root user on a Linux VM
 
 Once you have connected to your virtual machine via <a href="https://gcore.com/docs/cloud/virtual-instances/connect/connect-to-your-instance-via-control-panel" target="_blank">Control Panel</a> or <a href="https://gcore.com/docs/cloud/virtual-instances/connect/connect-to-your-instance-via-ssh" target="_blank">SSH</a>, you can perform commands with root user rights. To do this, you can use one of the two options: the `sudo` command or the `sudo su` superuser (root user) shell.
 
